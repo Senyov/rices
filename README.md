@@ -1,17 +1,16 @@
 # Info
 Howdy i'll post my rices over here
 
-# Eimikov2 (Gnome)
+# Eimikov2
 Requires:
 ```
-sudo apt install alacritty
+alacritty fonts-jetbrains-mono gnome
 ```
-```
-sudo apt install fonts-jetbrains-mono
-```
+
 Paste it into your home folder
 
 [i also recommend to use this tool for gnome 42>](https://github.com/refi64/stylepak)
+EDIT: If applying theming to all applications doesn't work, try running it as root and paste it into system directory (/usr/share/themes)
 
 # Preview Images
 
